@@ -1,7 +1,7 @@
 {
   "name": "nodebeats",
   "version": "0.1.2",
-  "description": "Node wrapper for Beats Music API",
+  "description": "A node.js wrapper for Beats Music API",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
