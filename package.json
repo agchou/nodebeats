@@ -1,15 +1,25 @@
 {
   "name": "nodebeats",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A node.js wrapper for Beats Music API",
+  "keywords": [
+    "beats",
+    "music",
+    "api",
+    "developer"
+  ],
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://www.github.com/agchou/nodebeats.git"
+    "url": "git://github.com/agchou/nodebeats.git"
   },
+  "bugs": {
+    "url": "https://www.github.com/agchou/nodebeats/issues"
+  },
+  "homepage": "https://www.github.com/agchou/nodebeats",
   "author": "Aaron Chou <aarongchou@gmail.com> (http://agchou.com/)",
   "license": "MIT",
   "dependencies": {
